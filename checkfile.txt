@@ -5,3 +5,5 @@ i know it
 new numbers are added or not
 i don't know
 changes occurs in duplicate one
+changes in main1
+
